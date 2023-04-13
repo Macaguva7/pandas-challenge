@@ -1,6 +1,7 @@
 # pandas-challenge
 
-Py city schools is an analysis and comparison of how Reading and Math scores are different per sudent and district and charter school.
+Pycityschools is an analysis and comparison of how Reading and Math scores are different per sudent and district and charter school.
+
 Analysis
 The size of the data to be analyzed responds to fifteen (15) schools and their performance on Math and Reading scores.
 For the whole size we can review how Reading scores are better than Math scores.
